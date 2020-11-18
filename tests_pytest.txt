@@ -1,0 +1,12 @@
+import pytest
+import calculator
+
+
+def test_soma():
+  assert calculator.soma(0,0) == 0
+
+def test_multiplicaco():
+    assert calculator.multiplicacao(5, 5) == 25
+
+def test_comparacao():
+    assert calculator.comparador(5,4) == False
