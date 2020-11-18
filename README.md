@@ -4,6 +4,8 @@ Avaliando a qualidade dos teste unitários
 
 O teste de mutação verifica a qualidade dos testes unitários ou de componentes. Cada componente recebe um mutante.
 
+![gif](mut.gif)
+
 Como Funciona?
 
 Esse mutante pode alterar o código (só durante a execução do teste). Por exemplo, alterar os operadores lógicos e operadores aritiméticos de cada função e verificar se seu teste unitário atua para prevenir/cobrir este comportamento. Caso não, o mutante sobrevive e significa que seu teste unitário não cobre todos os cenários ainda. O log do teste exibirá as alterações e sugestões para melhorias na sua base de testes.
