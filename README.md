@@ -1,7 +1,6 @@
 # teste_mutacao
 Avaliando a qualidade dos teste unitários
 ***  
-https://www.google.com/search?q=pip3+install+venv&oq=pip3+install+ven&aqs=chrome.0.0j69i57j0i22i30l6.10785j0j4&sourceid=chrome&ie=UTF-8
 O teste de mutação verifica a qualidade dos testes unitários ou de componentes. Cada componente recebe um mutante.
 
 ![gif](mut.gif)
